@@ -7,3 +7,4 @@ How to run:
 ```
 ./codecov --file ./build/reports/kover/xml/report.xml
 ```
+5. You'll have to wait a few minutes for codecov.io to process submitted data and calculate coverage

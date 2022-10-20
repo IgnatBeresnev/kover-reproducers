@@ -4,7 +4,6 @@ import org.junit.jupiter.api.Test
 
 class TestFileTest {
 
-
     @Test
     fun shouldCheckFoo() {
         TestFile().foo()
@@ -12,11 +11,6 @@ class TestFileTest {
 
     @Test
     fun shouldCheckBar() {
-        TestFile().foo()
-    }
-
-    @Test
-    fun checkNothing() {
-        // intellij with changed source file TestFile.kt
+        TestFile().bar()
     }
 }
