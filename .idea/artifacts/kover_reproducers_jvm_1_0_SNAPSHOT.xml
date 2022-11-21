@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="kover-reproducers-jvm-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="kover-reproducers-jvm-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="kover-reproducers.jvmMain" />
+    </root>
+  </artifact>
+</component>
